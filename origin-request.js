@@ -1,22 +1,7 @@
-const path = require('path')
+const path = require('path');
 
 exports.handler = (event, context, callback) => {
     const request = event.Records[0].cf.request;
-
-    if(request.headers.host[0].value !== 'www.creco.services') {
-      const redirect = {
-          status: '302',
-          statusDescription: 'Found',
-          headers: {
-              location: [{
-                  key: 'Location',
-                  value: 'https://creco.today/404',
-              }],
-          },
-      };
-
-      return callback(null, redirect);
-    }
 
     const url = request.uri;
 
