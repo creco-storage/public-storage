@@ -6,7 +6,7 @@ exports.handler = (event, context, callback) => {
     if(request.headers.host[0].value !== 'www.creco.services') {
       const redirect = {
           status: '302',
-          statusDescription: 'Bad Request',
+          statusDescription: 'Found',
           headers: {
               location: [{
                   key: 'Found',
