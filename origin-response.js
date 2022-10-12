@@ -28,7 +28,7 @@ exports.handler = async (event, context, callback) => {
         statusDescription: 'Found',
         headers: {
             location: [{
-                key: 'Found',
+                key: 'Location',
                 value: 'https://creco.today/404',
             }],
         },
