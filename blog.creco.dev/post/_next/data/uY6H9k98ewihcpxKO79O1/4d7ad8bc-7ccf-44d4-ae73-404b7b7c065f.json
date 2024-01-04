@@ -1,0 +1,1 @@
+{"pageProps":{"item":{"id":"4d7ad8bc-7ccf-44d4-ae73-404b7b7c065f","body":{"contents":"Tech\n프론트엔드를 위한 데브옵스, DivOps\n프론트엔드를 위한 DevOps를 모아서 망라해보자.\n\n## 빌드\n- 번들\n- 트랜스파일\n\n## 배포\n- CSR\n- SSR\n\n## 배포 전략\n- 블루그린\n- 카나리\n- AB 테스트\n\n## 기타 인프라\n- CDN\n- 이미지 최적화 서버\n- 스토리지 CDN\n","priority":7,"createdAt":1704332978546}},"style":{"backgroundColor":"#2B2B29"}},"__N_SSG":true}
