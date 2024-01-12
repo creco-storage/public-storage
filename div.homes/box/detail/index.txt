@@ -1,4 +1,4 @@
-0:["UtzzJxmC5AoXqdqzz3qgm",[[["",{"children":["detail",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["jMY8xzu0_x632-gKdN0GW",[[["",{"children":["detail",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:I[8677,["141","static/chunks/141-daf3c226db701244.js","660","static/chunks/660-d1bbac90de9995c4.js","185","static/chunks/app/layout-f7299d775c5dc741.js"],""]
 4:I[5370,[],""]
 5:I[6852,[],""]
