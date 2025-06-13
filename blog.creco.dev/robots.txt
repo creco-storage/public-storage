@@ -6,4 +6,4 @@ Allow: /
 Host: https://blog.creco.dev
 
 # Sitemaps
-Sitemap: https://blog.creco.dev/post/sitemap.xml
+Sitemap: https://blog.creco.dev/post/sitemap-0.xml
